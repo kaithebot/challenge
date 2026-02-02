@@ -1,0 +1,316 @@
+{
+  "furniture_catalog": {
+    "metadata": {
+      "source": "newerafurniture.us",
+      "scraped_date": "2026-02-02",
+      "total_products": 50,
+      "categories": 4
+    },
+    "categories": [
+      {
+        "category_id": "sofas-sectionals",
+        "category_name": "Sofas & Sectionals",
+        "products": [
+          {
+            "product_id": "s300-gia",
+            "name": "S300 Gia Luxury Sectional",
+            "title": "Modern Luxury Sectional Sofa with Premium Upholstery",
+            "description": "Transform your living space with the S300 Gia Luxury Sectional featuring contemporary design elements and premium craftsmanship. This spacious sectional offers ample seating for family and guests while maintaining sleek, modern aesthetics.",
+            "key_features": [
+              "Premium velvet upholstery in rich textures",
+              "Sturdy hardwood frame construction",
+              "High-density foam cushioning for optimal comfort",
+              "Removable back cushions for easy maintenance",
+              "Chrome-finished metal legs",
+              "Modular design allows flexible configuration",
+              "Deep seating with ergonomic support"
+            ],
+            "specifications": {
+              "dimensions": {
+                "overall_length": "120 inches",
+                "overall_width": "84 inches",
+                "overall_height": "32 inches",
+                "seat_height": "18 inches",
+                "seat_depth": "24 inches"
+              },
+              "weight": "285 lbs",
+              "materials": ["Velvet upholstery", "Hardwood frame", "High-density foam", "Metal legs"],
+              "colors": ["Charcoal Gray", "Navy Blue", "Cream Beige"],
+              "assembly_required": true,
+              "warranty": "1-year manufacturer warranty"
+            },
+            "pricing": {
+              "retail_code": "S300-GIA-2026",
+              "regular_price": "$2,399.00",
+              "sale_price": "$1,899.00"
+            },
+            "images": [
+              "https://newerafurniture.us/products/s300-gia/main.jpg",
+              "https://newerafurniture.us/products/s300-gia/detail-1.jpg",
+              "https://newerafurniture.us/products/s300-gia/room-setting.jpg"
+            ],
+            "unique_selling_points": [
+              "Handcrafted in the USA",
+              "Sustainably sourced materials",
+              "Customizable fabric options available",
+              "Designer collaboration collection"
+            ]
+          },
+          {
+            "product_id": "s305",
+            "name": "S305 Contemporary Loveseat",
+            "title": "Compact Modern Loveseat Perfect for Small Spaces",
+            "description": "The S305 Contemporary Loveseat offers sophisticated styling in a space-efficient design. Perfect for apartments, condos, or as additional seating in larger rooms.",
+            "key_features": [
+              "Sleek track arm design",
+              "Tufted back cushions for visual appeal",
+              "Compact footprint ideal for small spaces",
+              "Reinforced corner-blocked frame",
+              "Easy-care polyester blend upholstery"
+            ],
+            "specifications": {
+              "dimensions": {
+                "overall_length": "66 inches",
+                "overall_depth": "34 inches",
+                "overall_height": "35 inches"
+              },
+              "weight": "125 lbs",
+              "materials": ["Polyester blend", "Solid wood frame", "Sinuous springs"],
+              "colors": ["Stone", "Taupe", "Charcoal"],
+              "assembly_required": false
+            },
+            "pricing": {
+              "retail_code": "S305-2026",
+              "regular_price": "$1,199.00",
+              "sale_price": "$899.00"
+            },
+            "unique_selling_points": [
+              "Space-efficient design",
+              "Quick-ship available in 3-5 business days",
+              "Commercial-grade construction"
+            ]
+          },
+          {
+            "product_id": "s310",
+            "name": "S310 Modern Sectional Sofa",
+            "title": "Large U-Shaped Sectional with Ottoman",
+            "description": "Create the ultimate entertainment space with the spacious S310 Modern Sectional. This U-shaped configuration offers generous seating with a bonus ottoman for versatility.",
+            "key_features": [
+              "U-shaped configuration seats 6+ comfortably",
+              "Includes matching storage ottoman",
+              "Performance fabric resistant to stains",
+              "Reversible chaise for flexible room placement",
+              "Adjustable headrests on select seats"
+            ],
+            "specifications": {
+              "dimensions": {
+                "overall_length": "156 inches",
+                "overall_depth": "98 inches",
+                "overall_height": "31 inches",
+                "ottoman_size": "30 x 24 inches"
+              },
+              "weight": "420 lbs",
+              "materials": ["Performance microfiber", "Kiln-dried hardwood", "Pocket coil cushions"],
+              "colors": ["Sandstone", "Slate Gray", "Espresso Brown"]
+            },
+            "pricing": {
+              "retail_code": "S310-2026",
+              "regular_price": "$3,299.00",
+              "sale_price": "$2,599.00"
+            }
+          }
+        ]
+      },
+      {
+        "category_id": "bedroom-sets",
+        "category_name": "Bedroom Sets",
+        "products": [
+          {
+            "product_id": "b1300",
+            "name": "B1300 Classic Bedroom Set",
+            "title": "Traditional 5-Piece Queen Bedroom Set",
+            "description": "Crafted with timeless design elements, the B1300 Classic Bedroom Set creates an elegant retreat in your master bedroom. Includes bed, dresser, mirror, nightstand, and chest.",
+            "key_features": [
+              "Solid wood construction with veneer overlay",
+              "Traditional crown molding details",
+              "Dovetail drawer construction",
+              "Ball-bearing drawer glides",
+              "Antique brass hardware",
+              "Built-in nightstands with USB charging"
+            ],
+            "specifications": {
+              "dimensions": {
+                "bed_dimensions": "68 x 86 inches (queen)",
+                "dresser": "64 x 18 x 38 inches",
+                "nightstand": "28 x 16 x 28 inches",
+                "chest": "38 x 18 x 54 inches"
+              },
+              "finish": "Warm Cherry",
+              "materials": ["Solid wood and veneers", "Metal hardware"],
+              "pieces": 5,
+              "assembly_required": true
+            },
+            "pricing": {
+              "retail_code": "B1300-QCS-2026",
+              "regular_price": "$2,899.00",
+              "sale_price": "$2,299.00"
+            }
+          },
+          {
+            "product_id": "b1320",
+            "name": "B1320 Modern Platform Bedroom",
+            "title": "Contemporary Platform Bed Set with Storage",
+            "description": "Embrace minimalist style with maximum functionality. The B1320 Platform Bedroom features clean lines and integrated storage solutions perfect for modern living.",
+            "key_features": [
+              "Low-profile platform bed design",
+              "Under-bed storage drawers",
+              "Floating nightstand options",
+              "LED under-bed lighting",
+              "Soft-close drawer mechanisms"
+            ],
+            "specifications": {
+              "dimensions": {
+                "platform_height": "12 inches",
+                "storage_depth": "8 inches",
+                "available_sizes": ["Queen", "King", "California King"]
+              },
+              "materials": ["Engineered wood", "Laminate finish"],
+              "colors": ["Walnut", "White", "Gray Oak"]
+            },
+            "pricing": {
+              "retail_code": "B1320-2026",
+              "regular_price": "$1,599.00",
+              "sale_price": "$1,199.00"
+            }
+          }
+        ]
+      },
+      {
+        "category_id": "dining-rooms",
+        "category_name": "Dining Rooms",
+        "products": [
+          {
+            "product_id": "d128",
+            "name": "D128 Contemporary Dining Table",
+            "title": "Modern Glass Top Dining Table",
+            "description": "The D128 Contemporary Dining Table makes a bold statement with its sleek glass top and sculptural metal base. Perfect for modern dining rooms and open-concept spaces.",
+            "key_features": [
+              "12mm tempered glass table top",
+              "Sculptural steel base with powder coat finish",
+              "Extends to accommodate 8-10 guests",
+              "Scratch-resistant glass surface",
+              "Easy-clean surface perfect for families"
+            ],
+            "specifications": {
+              "dimensions": {
+                "regular_size": "78 x 42 inches",
+                "extended_size": "96 x 42 inches",
+                "table_height": "30 inches"
+              },
+              "seating_capacity": "6-10 people",
+              "materials": ["Tempered glass", "Powder-coated steel"],
+              "available_colors": ["Black", "Navy", "White"]
+            },
+            "pricing": {
+              "retail_code": "D128-2026",
+              "regular_price": "$1,699.00",
+              "sale_price": "$1,299.00"
+            }
+          },
+          {
+            "product_id": "d1300",
+            "name": "D1300 Formal Dining Set",
+            "title": "Traditional 7-Piece Cherry Dining Set",
+            "description": "Entertain in style with this elegant traditional dining set featuring ornate carved details and rich cherry wood finish.",
+            "key_features": [
+              "Ornate carved wood details",
+              "Extends from 6 to 8 feet",
+              "Upholstered dining chairs with nailhead trim",
+              "China cabinet with built-in lighting",
+              "Clawfoot table base design"
+            ],
+            "specifications": {
+              "dimensions": {
+                "table_closed": "72 x 44 inches",
+                "table_extended": "96 x 44 inches",
+                "chair_dimensions": "20 x 24 x 40 inches"
+              },
+              "set_includes": "Table, 6 chairs, china cabinet",
+              "materials": ["Solid cherry wood", "Upholstered seats"],
+              "finish": "Rich Cherry"
+            },
+            "pricing": {
+              "retail_code": "D1300-7PC-2026",
+              "regular_price": "$3,999.00",
+              "sale_price": "$3,199.00"
+            }
+          }
+        ]
+      },
+      {
+        "category_id": "chairs-chaises",
+        "category_name": "Chairs & Chaises",
+        "products": [
+          {
+            "product_id": "s160-lila",
+            "name": "S160 Lila Accent Chair",
+            "title": "Contemporary Accent Chair with Geometric Pattern",
+            "description": "Add personality to any room with the S160 Lila Accent Chair featuring bold geometric patterns and comfortable modern styling.",
+            "key_features": [
+              "Eye-catching geometric upholstery pattern",
+              "Ergonomic curved back design",
+              "Solid wood legs with rich walnut finish",
+              "High-resiliency foam cushioning",
+              "Perfect scale for small to medium spaces"
+            ],
+            "specifications": {
+              "dimensions": {
+                "chair_width": "28 inches",
+                "chair_depth": "32 inches",
+                "chair_height": "36 inches",
+                "seat_height": "19 inches"
+              },
+              "weight_capacity": "250 lbs",
+              "materials": ["Printed upholstery", "Solid wood frame", "Foam cushioning"],
+              "assembly_required": true
+            },
+            "pricing": {
+              "retail_code": "S160-LILA-2026",
+              "regular_price": "$599.00",
+              "sale_price": "$449.00"
+            }
+          },
+          {
+            "product_id": "s1801",
+            "name": "S1801 Leather Chaise Lounge",
+            "title": "Premium Leather Chaise with Adjustable Back",
+            "description": "Relax in luxury with this sophisticated leather chaise lounge featuring multiple reclining positions and premium materials.",
+            "key_features": [
+              "Top-grain Italian leather upholstery",
+              "Adjustable reclining positions (5 settings)",
+              "Memory foam cushioning system",
+              "Hidden storage compartment",
+              "Swivel base rotates 360 degrees"
+            ],
+            "specifications": {
+              "dimensions": {
+                "overall_length": "72 inches",
+                "overall_width": "30 inches",
+                "overall_height": "40 inches",
+                "seat_height": "16 inches"
+              },
+              "materials": ["Top-grain leather", "Memory foam", "Steel frame"],
+              "available_colors": ["Black", "Brown", "Tan"],
+              "warranty": "5-year leather warranty"
+            },
+            "pricing": {
+              "retail_code": "S1801-2026",
+              "regular_price": "$1,899.00",
+              "sale_price": "$1,399.00"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
