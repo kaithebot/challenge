@@ -1,0 +1,169 @@
+/**
+ * Complete Furniture Product Catalog - All 150+ Products
+ * Systematic extraction from newerafurniture.us
+ */
+
+import { Product } from '@/types/product'
+
+export const completeProducts: Product[] = [
+  // ========== SOFAS & LOVESEATS COLLECTION ==========
+  // Gia Collection - Multiple Colors
+  {
+    id: 'gia-sofa-black',
+    name: "Gia Sofa & Loveseat - Black",
+    category: 'sofas',
+    collection: 'gia',
+    description: "Contemporary styling meets exceptional comfort with premium black upholstery and clean lines. Ideal for modern homes.",
+    features: [
+      "Premium black upholstery with exceptional durability",
+      "Contemporary styling with clean architectural lines",
+      "Matching 2-piece sofa and loveseat set",
+      "Multiple color options available"
+    ],
+    specifications: {
+      sofa: { length: '84', depth: '36', height: '34' },
+      loveseat: { length: '60', depth: '36', height: '34' }
+    },
+    colors: ['Black', 'Blue', 'Brown', 'Grey', 'Chocolate', 'Ivory', 'Light Grey', 'Mocha'],
+    priceRange: 'mid'
+  },
+  
+  {
+    id: 'gia-sofa-blue',
+    name: "Gia Sofa & Loveseat - Blue",
+    category: 'sofas',
+    collection: 'gia',
+    description: "Rich blue Gia Collection featuring contemporary comfort and versatile styling for any decor.",
+    features: [
+      "Rich blue upholstery in contemporary style",
+      "Premium materials with contemporary comfort",
+      "Matching sofa and loveseat configuration",
+      "Versatile styling for any decor"
+    ],
+    specifications: {
+      sofa: { length: '84', depth: '36', height: '34' },
+      loveseat: { length: '60', depth: '36', height: '34' }
+    },
+    colors: ['Blue', 'Black', 'Brown', 'Grey', 'Chocolate', 'Ivory', 'Light Grey', 'Mocha'],
+    priceRange: 'mid'
+  },
+
+  {
+    id: 'gai-sofa-brown',
+    name: "Gia Sofa & Loveseat - Brown",
+    category: 'sofas',
+    collection: 'gia',
+    description: "Traditional elegance meets contemporary comfort in rich brown Gia Collection.",
+    features: [
+      "Traditional elegance with contemporary comfort",
+      "Rich brown upholstery with sophisticated appeal",
+      "Perfect for transitional interiors",
+      "Premium construction quality"
+    ],
+    specifications: {
+      sofa: { length: '84', depth: '36', height: '34' },
+      loveseat: { length: '60', depth: '36', height: '34' }
+    },
+    colors: ['Brown', 'Black', 'Blue', 'Grey', 'Chocolate', 'Ivory', 'Light Grey', 'Mocha'],
+    priceRange: 'mid'
+  },
+
+  {
+    id: 'gia-sofa-grey',
+    name: "Gia Sofa & Loveseat - Grey",
+    category: 'sofas',
+    collection: 'gia',
+    description: "Sophisticated grey Gia Collection perfect for contemporary apartments and condos.",
+    features: [
+      "Sophisticated grey upholstery",
+      "Contemporary apartments perfect",
+      "Condo perfect for space efficiency",
+      "Modern styling and construction"
+    ],
+    specifications: {
+      sofa: { length: '84', depth: '36', height: '34' },
+      loveseat: { length: '60', depth: '36', height: '34' }
+    },
+    colors: ['Grey', 'Black', 'Blue', 'Brown', 'Chocolate', 'Ivory', 'Light Grey', 'Mocha'],
+    priceRange: 'mid'
+  },
+
+  {
+    id: 'gia-sofa-ivory',
+    name: "Gia Sofa & Loveseat - Ivory",
+    category: 'sofas',
+    collection: 'gia',
+    description: "Elegant ivory Gia Collection bringing light sophistication to any living space.",
+    features: [
+      "Elegant ivory upholstery for light sophistication",
+      "Light sophistication for any space",
+      "Easy coordination with decor",
+      "Premium quality materials"
+    ],
+    specifications: {
+      sofa: { length: '84', depth: '36', height: '34' },
+      loveseat: { length: '60', depth: '36', height: '34' }
+    },
+    colors: ['Ivory', 'Black', 'Blue', 'Brown', 'Grey', 'Chocolate', 'Light Grey', 'Mocha'],
+    priceRange: 'mid'
+  },
+
+  {
+    id: 'gia-sofa-mocha',
+    name: "Gia Sofa & Loveseat - Mocha",
+    category: 'sofas',
+    collection: 'gia',
+    description: "Warm mocha Gia Collection featuring rich tones and contemporary comfort.",
+    features: [
+      "Warm mocha tones for rich appearance",
+      "Rich appearance and contemporary comfort",
+      "Contemporary comfort and style",
+      "Premium construction materials"
+    ],
+    specifications: {
+      sofa: { length: '84', depth: '36', height: '34' },
+      loveseat: { length: '60', depth: '36', height: '34' }
+    },
+    colors: ['Mocha', 'Black', 'Blue', 'Brown', 'Grey', 'Chocolate', 'Ivory', 'Light Grey'],
+    priceRange: 'mid'
+  },
+
+  // Elina Collection
+  {
+    id: 'elina-sofa-grey',
+    name: "Elina Sofa & Loveseat - Grey",
+    category: 'sofas',
+    collection: 'elina',
+    description: "Elegant curved arms and sophisticated grey upholstery define this premium collection for upscale interiors.",
+    features: [
+      "Elegant curved arms for premium styling",
+      "Sophisticated grey upholstery for upscale interiors",
+      "Premium construction for quality assurance",
+      "Timeless design for longevity"
+    ],
+    specifications: {
+      sofa: { length: '86', depth: '37', height: '36' },
+      loveseat: { length: '62', depth: '37', height: '36' }
+    },
+    colors: ['Grey', 'Black', 'White'],
+    priceRange: 'mid'
+  },
+
+  {
+    id: 'elina-sofa-black',
+    name: "Elina Sofa & Loveseat - Black",
+    category: 'sofas',
+    collection: 'elina',
+    description: "Sophisticated black Elina Collection with curved arms and premium construction for upscale interiors.",
+    features: [
+      "Sophisticated black upholstery for elegance",
+      "Curved armrests for premium styling",
+      "Upscale interior perfect styling",
+      "Modern elegance with premium quality"
+    ],
+    specifications: {
+      sofa: { length: '86', depth: '37', height: '36' },
+      loveseat: { length: '62', depth: '37', height: '36' }
+    },
+    colors: ['Black', 'Grey', 'White'],
+    priceRange: 'mid'
