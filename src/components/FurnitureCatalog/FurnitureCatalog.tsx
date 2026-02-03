@@ -1,8 +1,10 @@
+'use client'
+
 import React, { useState, useEffect } from 'react'
-import ProductCard from '../ProductCard/ProductCard'
-import Pagination from '../Pagination/Pagination'
+import { ProductCard } from '../ProductCard/ProductCard'
+import { Pagination } from '../Pagination/Pagination'
 import { Product } from '@/types/product'
-import SearchFilter from '../SearchFilter/SearchFilter'
+import { SearchFilter } from '../SearchFilter/SearchFilter'
 
 interface FurnitureCatalogProps {
   products: Product[]
